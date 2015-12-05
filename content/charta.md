@@ -26,8 +26,9 @@ diese Werte zu leben, zu erhalten und in die Zukunft zu tragen.
 
 ### Unsere Prinzipien
 
-Transparenz, (alle Mitglieder sehen alle Zahlen)
-Erfolg teilen, (--> Fairness)
-Mitbestimmung, (Demokratie begreifen wir als Stärke, Abhängigkeit von einzelnen starken Personen als Schwäche )
-Nachhaltigkeit, (einen Teil unseres Gewinns verwende wir für gute Zwecke)
-Vielfalt ist Stärke (mir hat das immer gefallen, in einem gut gemischten Team zu arbeiten.)
+* Kunden helfen, bedeutet, wir geben unser bestes und setzen uns noicht fest
+* Transparenz bedeutet, die Zahlen liegen den Mitarbeitern offen
+* Erfolg teilen bedeutet, wir beteiligen alle am Erfolg
+* Mitbestimmung bedeutet, diejenigen, die in der Firma arbeiten, bestimmen über deren Geschick
+* Nachhaltigkeit bedeutet, einen Teil unseres Gewinns verwende wir für gute Zwecke
+* Vielfalt ist Stärke, das bedeutet, wir suchen im Unterschied die Ergänzung

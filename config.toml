@@ -1,11 +1,11 @@
-baseurl = "http://krukas.dyn.amicdns.de/"
+baseurl = "http://krukas.dyn.amicdns.de/~pi/blueprint/"
 languageCode = "de-de"
 title = "blueprint"
 subtitle = "wir helfen Produktentwicklung zu skalieren"
 
 [Params]
-  themeColor = "theme-base-0d"
   description = "wir helfen, ihre Produktentwicklung zu skalieren"
+  backgroundImage = "/img/_kette.jpg"
 
 
 [[menu.main]]

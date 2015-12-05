@@ -20,7 +20,7 @@ home: blueprint-home
 	rsync -vaz --delete public/ pi@krukas.dyn.amicdns.de:public_html/blueprint/
 
 blueprint-home: .FORCE
-	hugo -D -b http://krukas.dyn.amicdns.de/~pi/blueprint --theme=hyde --buildDrafts
+	hugo -D -b http://krukas.dyn.amicdns.de/~pi/blueprint --theme=blueprint --buildDrafts
 	# change directories to 755
 	find public -type d -print0 | xargs -0 chmod 755
 	# change files to 644
