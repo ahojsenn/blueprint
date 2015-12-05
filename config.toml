@@ -1,3 +1,29 @@
 baseurl = "http://krukas.dyn.amicdns.de/"
 languageCode = "de-de"
 title = "blueprint"
+
+[Params]
+  description = "our blueprint site stuff"
+  themeColor = "theme-base-0d"
+
+
+[[menu.main]]
+    name = "Charta"
+    pre = "<i class='fa fa-download'></i>"
+    url = "/charta/"
+    weight = -200
+[[menu.main]]
+    name = "Produkt"
+    url = "/product/"
+    weight = -180
+[[menu.main]]
+    name = "Profile"
+    url = "/profiles/"
+    weight = -170
+[[menu.main]]
+    name = "Impressum"
+    url = "/impressum/"
+    weight = -150
+
+
+
