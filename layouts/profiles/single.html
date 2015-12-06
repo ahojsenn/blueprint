@@ -1,0 +1,15 @@
+{{ partial "head.html" . }}
+<body class="{{ .Site.Params.themeColor }}">
+	<div class="content container">
+		<div class="profile">
+			<h1>{{ .Title }}<br>
+				{{ .Params.name }}</h1>
+				{{ .Content }}
+			{{ range .Params.coord }}
+			<div> {{ . }}  </div>
+			{{ end }}
+			<div><img style="opacity: 1;" src="{{ .Site.BaseURL }}{{ .Params.profileimage }}"> </div>
+		</div>
+		{{ partial "footer.html" . }}
+	</body>
+	</html>

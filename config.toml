@@ -5,7 +5,6 @@ subtitle = "wir helfen Produktentwicklung zu skalieren"
 
 [Params]
   description = "wir helfen, ihre Produktentwicklung zu skalieren"
-  backgroundImage = "/img/_kette.jpg"
 
 
 [[menu.main]]
