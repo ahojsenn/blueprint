@@ -3,8 +3,9 @@ date = "2015-12-04T19:54:13+01:00"
 draft = true
 title = "Profile"
 
-name = "Dr. Johannes Mainusch"
-profileimage = "img/profile-JohannesMainusch.jpg"
+name 			= "Dr. Johannes Mainusch"
+profileimage 	= "img/profile-JohannesMainusch.jpg"
+mission 		= "Fairness in dealing with customers and colleagues, the forming of great agile teams, success in digitalization of commerce, innovation. These are the thinks I love."
 
 [coord]
 	street = "Vizelinstr. 39"

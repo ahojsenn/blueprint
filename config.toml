@@ -25,9 +25,13 @@ subtitle = "wir helfen Produktentwicklung zu skalieren"
     url = "/erfahrung/"
     weight = -160
 [[menu.main]]
+    name = "Über uns"
+    url = "/about/"
+    weight = -150
+[[menu.main]]
     name = "Impressum"
     url = "/impressum/"
-    weight = -150
+    weight = -140
 
 
 
