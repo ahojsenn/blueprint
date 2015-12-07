@@ -22,7 +22,7 @@ subtitle = "wir helfen Produktentwicklung zu skalieren"
     weight = -170
 [[menu.main]]
     name = "Erfahrung"
-    url = "/erfahrung/"
+    url = "/references/"
     weight = -160
 [[menu.main]]
     name = "Über uns"
