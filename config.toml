@@ -9,27 +9,8 @@ theme="blueprint"
 
 
 [[menu.main]]
-    name = "Charta"
-    pre = "<i class='fa fa-download'></i>"
-    url = "/charta/"
-    weight = -200
-[[menu.main]]
-    name = "Produkt"
-    url = "/product/"
-    weight = -180
-[[menu.main]]
     name = "Profile"
     url = "/profiles/"
     weight = -170
-[[menu.main]]
-    name = "Erfahrung"
-    url = "/references/"
-    weight = -160
-[[menu.main]]
-    name = "Über uns"
-    url = "/about/"
-    weight = -150
-
-
 
 

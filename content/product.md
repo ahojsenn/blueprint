@@ -1,7 +1,9 @@
 +++
 date = "2015-12-05T15:37:20+01:00"
 draft = true
-title = "Unser Produkt"
+title = "Produkt"
+menu = "main"
+weight = "-180"
 +++
 
 Wir helfen, Produktentwicklung zu skalieren. Dazu haben wir unsere [Mitarbeiter](../profiles) und unsere [Erfahrung](../erfahrung).
