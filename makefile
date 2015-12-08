@@ -14,7 +14,7 @@ clone-blueprint:
 	git clone git@github.com:ahojsenn/blueprint.git
 
 server:
-	hugo server --theme=hyde --buildDrafts
+	hugo server --theme=blueprint --buildDrafts
 
 home: blueprint-home
 	rsync -vaz --delete public/ pi@krukas.dyn.amicdns.de:public_html/blueprint/
