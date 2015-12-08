@@ -31,8 +31,10 @@ Professional experience: |
 <img src="https://www.uni-hamburg.de/beschaeftigtenportal/bilder/services/oeffentlichkeitsarbeit/corporate-design/logo/up-uhh-logo-u-2010-u-farbe-u-rgb.jpg"> | **1985 – 1989: Student, University of Hamburg**<br>Studies of computer science and physics<br>**1989 – 1995: Student jobs**<br>University of Hamburg: teacher for Microprocessors and digital electronics for physicists DESY: part time employee of the public relations department<br>**1985-1992: Volunteer, engagement in nonprofit organizations**<br>Organization of international youth exchange programs between Hamburg and Northern Ireland.<br>Training of youth group leaders in nonprofit organizations<br>**1985 – 1989: profitable jobs**<br>Painter of petrol stations, packer in breweries, street musician.
 <img src="https://upload.wikimedia.org/wikipedia/en/1/1b/Corrymeela_logo.png"> | **1984 – 1985: Volunteer, Corrymeela Community, Northern Ireland**<br>I spent a year as volunteer in the Corrymeela Community, a nonprofit organization dedicated to reconciliation work in Northern Ireland.
 School | 1984: German Abitur for university admission or matriculation. GPA 1,5
-Languages | English: fluent in speech and writing<br>French: graduation in public school , basic comprehension and speech
+Languages |- English: fluent in speech and writing<br>- French: graduation in public school , basic comprehension and speech
 Private Interests | Family, friends, music, sailing, reading
+Voluntary work | &nbsp;
+<img src="../../img/HackerSchool.png"> | **Hackerschool 2013 -- present**<br> We help young people to have fun with programming and computers. www.hacker-school.de
 
 
 

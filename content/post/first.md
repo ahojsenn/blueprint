@@ -1,8 +1,10 @@
 +++
-date = "2015-11-30T21:26:16+01:00"
+date = "2015-12-08T12:26:16+01:00"
 draft = true
-title = "first"
+title = "the superchicken story"
 
 +++
 
-this is the first.md file...
+Some of the gist:
+* "...what happens between people really counts..."
+* "...helpfulness is core to success..."
