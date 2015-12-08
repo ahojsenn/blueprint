@@ -29,10 +29,7 @@ theme="blueprint"
     name = "Über uns"
     url = "/about/"
     weight = -150
-[[menu.main]]
-    name = "Impressum"
-    url = "/impressum/"
-    weight = -140
+
 
 
 
