@@ -1,0 +1,8 @@
+<div class="navi">
+  <span>
+    <a href="{{ .Site.BaseURL }}">{{ .Site.Title }} Home</a>
+  </span>&nbsp;
+  {{ range .Site.Menus.main }}
+  <span><a href="{{.URL}}"> {{ .Name }} </a></span>&nbsp;
+  {{end}}
+</div>
