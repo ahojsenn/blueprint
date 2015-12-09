@@ -5,7 +5,7 @@ menu = "main"
 weight = "-145"
 title = "Inspiration"
 layout="inspiration"
-
+draft = false
 +++
 
 Sammelstelle für Vorträge, Artikel und Dinge, die uns inspirieren.
