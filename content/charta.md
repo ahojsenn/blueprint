@@ -24,4 +24,3 @@ Unsere Kunden betrachten wir als Partner
 
 Als Blueprint setzen uns dafür ein,
 diese Werte zu leben, zu erhalten und in die Zukunft zu tragen.
-
