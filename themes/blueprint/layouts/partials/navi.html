@@ -1,19 +1,23 @@
-<div class="navi">
+<div class="menu">
 
+	<input type="checkbox" class="burger-menu-toggle" id="burger-menu-toggle01">
 
-	<div class="menu-button" id="menu-button">
-		<div></div>
-		<span></span>
-		<span></span>
-		<span></span>
-	</div>
-
-	<div class="responsive-menu">
+	<a href="#">
+		<label for="burger-menu-toggle01">
+			<div class="burger-menu">
+				<div></div>
+				<span></span>
+				<span></span>
+				<span></span>
+			</div>
+		</label>
+	</a>
+	<div class="responsive-menu" id="responsive-menu">
 		<span>
-			<a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
-		</span>&nbsp;
+			<a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></span>&nbsp;
 		{{ range .Site.Menus.main }}
 		<span><a href="{{.URL}}"> {{ .Name }} </a></span>&nbsp;
 		{{end}}
 	</div>
 </div>
+

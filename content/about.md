@@ -1,6 +1,6 @@
 +++
 date = "2015-11-30T21:24:39+01:00"
-title = "Über uns"
+title = "Wir"
 description = "Wir über uns"
 menu = "main"
 weight = "-140"
