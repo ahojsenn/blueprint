@@ -26,7 +26,7 @@
  		top: 3%;
  		background-color: rgba(0, 0, 0, 0.6);
  		padding: 4px 12px 4px 12px;
- 		width: 23px;
+ 		width: 42px;
 		-webkit-border-radius: 10px;
  		-moz-border-radius: 10px;
  		border-radius: 10px;
@@ -34,9 +34,9 @@
 
  	.burger-menu span {
  		display: block;
- 		width: 23px;
- 		height: 4px;
- 		margin: 3px 0px;
+ 		width: 42px;
+ 		height: 5px;
+ 		margin: 5px 0px;
  		background: orange;
  		-webkit-border-radius: 3px;
  		-moz-border-radius: 3px;
@@ -48,7 +48,7 @@
  		position: absolute;
  		z-index: 99;
  		right: 2%;
- 		top: 60px;
+ 		top: 64px;
  	}
 
  	.menu input[type=checkbox]:checked ~ .responsive-menu {
@@ -57,7 +57,7 @@
  		max-width: 130px;
  		right: 1%;
  		transition-property: right;
- 		transition-duration: .5s;
+ 		transition-duration: .2s;
  		transition-timing-function: cubic-bezier(0, 2.5, 1.5, 2.5);
  	}
 
@@ -66,7 +66,7 @@
  		right: -130px;
  		max-width: 130px;
  		transition-property: right;
- 		transition-duration: .5s;
+ 		transition-duration: .2s;
  		transition-timing-function: cubic-bezier(0, 2.5, 1.5, 2.5);
  	}
  }
@@ -97,6 +97,7 @@
  .responsive-menu a,
  .responsive-menu a:visited,
  .responsive-menu a:link  {
+ 	font-size: 18px;
  	-webkit-border-radius: 10px;
  	-moz-border-radius: 10px;
  	border-radius: 10px;
@@ -109,7 +110,7 @@
  	color: orange;
  	padding: 4px 12px 2px 12px;
  	text-decoration: none;
- 	line-height: 28px;
+ 	line-height:32px;
  }
 
  .responsive-menu a:hover {
