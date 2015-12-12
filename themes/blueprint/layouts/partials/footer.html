@@ -1,2 +1,16 @@
+
+
+
+
 <div class="footer">
-{{ with .Site.Params.copyright }}{{.}}{{ else }}&copy; {{.Now.Format "2006"}}. All rights reserved. {{end}}</div>
+<span style="text-align: left;">you waited only <span id="loadTime"> </span>milliseconds.</span>
+	&nbsp;{{ with .Site.Params.copyright }}{{.}}{{ else }}&copy; {{.Now.Format "2006"}}. All rights reserved. {{end}}
+</div>
+
+
+<script type="text/javascript">
+	var element = document.getElementById("loadTime");
+	var now = new Date().getTime();
+  	var page_load_time = now - performance.timing.navigationStart;
+	element.innerHTML = page_load_time;
+</script>
