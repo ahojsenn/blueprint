@@ -1,9 +1,5 @@
-
-
-
-
 <div class="footer">
-<span style="text-align: left;">you waited only <span id="loadTime"> </span>milliseconds.</span>
+	<span style="left: 5%;"><span id="loadTime"> </span>ms</span>
 	&nbsp;{{ with .Site.Params.copyright }}{{.}}{{ else }}&copy; {{.Now.Format "2006"}}. All rights reserved. {{end}}
 </div>
 
@@ -11,6 +7,10 @@
 <script type="text/javascript">
 	var element = document.getElementById("loadTime");
 	var now = new Date().getTime();
-  	var page_load_time = now - performance.timing.navigationStart;
-	element.innerHTML = page_load_time;
+	var page_load_time = now - performance.timing.navigationStart;
+
+	document.addEventListener("DOMContentLoaded", function(event) {
+		//    console.log("DOM fully loaded and parsed");
+		element.innerHTML = page_load_time;
+	});
 </script>
