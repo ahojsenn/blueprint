@@ -8,9 +8,31 @@
 	var element = document.getElementById("loadTime");
 	var now = new Date().getTime();
 	var page_load_time = now - performance.timing.navigationStart;
-
+	var theUrl = "http://krukas.dyn.amicdns.de:12345/logme";
+	var newScript = document.createElement('script');
+	var now= new Date();
+	//
 	document.addEventListener("DOMContentLoaded", function(event) {
 		//    console.log("DOM fully loaded and parsed");
 		element.innerHTML = page_load_time;
+		theUrl += "&now="+now.toISOString();
+		theUrl += "&page_load_time="+page_load_time;
+		newScript.setAttribute('src',theUrl);
+		document.head.appendChild (newScript);
 	});
+
+
+
+
+//  from: http://stackoverflow.com/questions/247483/http-get-request-in-javascript
+function httpGetAsync(theUrl, callback)
+{
+    var xmlHttp = new XMLHttpRequest();
+    xmlHttp.onreadystatechange = function() {
+        if (xmlHttp.readyState == 4 && xmlHttp.status == 200)
+            callback(xmlHttp.responseText);
+    }
+    xmlHttp.open("GET", theUrl, true); // true for asynchronous
+    xmlHttp.send(null);
+}
 </script>
