@@ -6,7 +6,7 @@
  	background-image: url(../img/_kette.jpg);
  	background-repeat: no-repeat;
  	background-position: center 0px;
- 	background-color: rgb(116,170,231);
+ 	background-color: rgba(116,170,231,1);
  	margin-left: 20%;
  	margin-right: 20%;
  	font-family: Helvetica, Arial, sans-serif;
@@ -77,10 +77,8 @@
  	opacity: 1;
  }
 
-
  .content {
- 	background-color: rgb(116,170,231);	
- 	opacity:0.7;
+ 	background-color: rgba(116,170,231,0.7);
  	padding: 3%;
  	margin-top: 10px;
  	-webkit-border-radius: 20px;
@@ -183,7 +181,6 @@
  	}
  }
 
-
  .profile table td {
  	text-align: left;
  	background: rgba(256,256,256,0.5);
@@ -195,6 +192,43 @@
  	background: rgba(256,256,256,0.3);
  	vertical-align: top;
  }
+
+
+
+ul.miniprofile {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  text-align: left;
+  display: table;
+}
+
+ul.miniprofile li {
+  display: table-row;
+}
+
+ul.miniprofile img{
+  width: 200px;
+}
+
+ul.miniprofile div.profileimage{
+  float: left;
+  position: relative;
+}
+
+ul.miniprofile div.profileimage span{
+  position: absolute;
+  bottom: 3px;
+  color: orange;
+}
+
+ul.miniprofile div.profiledetails{
+/*  background-color: red;
+*/
+}
+
+
+
 
  .reference img{
  	height: 42px;
