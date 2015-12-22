@@ -1,13 +1,13 @@
 +++
 date = "2015-11-30T21:24:39+01:00"
-title = "Wir"
+title = "Werte"
 description = "Wir über uns"
 menu = "main"
 weight = "-140"
 draft = false
 +++
 
-### Unsere Prinzipien:
+Wir machen uns viele Gedanken dazu, was uns vom Wettbewerb unterscheidet. Das sind die Werte, die uns wichtig sind:
 
 * Kunden helfen bedeutet, wir geben unser Bestes und helfen in einer Form, dass der Kunde bald wieder ohne uns auskommt.
 * Transparenz bedeutet, die Zahlen liegen den Mitarbeitern offen.
