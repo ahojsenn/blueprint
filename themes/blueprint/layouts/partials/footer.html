@@ -1,6 +1,9 @@
 <div class="footer">
 	<span style="left: 5%;"><span id="loadTime"> </span>ms</span>
-	&nbsp;{{ with .Site.Params.copyright }}{{.}}{{ else }}&copy; {{.Now.Format "2006"}}. All rights reserved. {{end}}
+	&nbsp;{{ with .Site.Params.copyright }}{{.}}{{ else }}&copy; {{.Now.Format "2006"}}{{end}}
+	<span>
+		<a href="{{.Site.BaseURL}}/impressum">Impressum</a>
+	</span>
 </div>
 
 
