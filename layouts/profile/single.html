@@ -1,0 +1,32 @@
+{{ partial "head.html" . }}
+<body class="{{ .Site.Params.themeColor }}">
+<div class="content profile">
+		<h1>
+			<br>
+			<br>
+			{{ .Title }}<br>
+			{{ .Params.name }}
+		</h1>
+		<br>
+		<br>
+		<br>
+		<div class="mission printfrontpage">
+			{{ .Params.coordinates | markdownify}}
+			<br><br><br>
+			about me:<br>
+			"{{ .Params.mission | markdownify}}"
+		</div>
+		<br>
+		<br>
+
+		<div>
+			<img style="opacity: 1;" src="{{ .Site.BaseURL }}{{ .Params.profileimage }}" width="400">
+		</div>
+		<br>
+		<h2 class="printpagebreak">Profile {{ .Params.name }}, {{ .Date.Format "Mon, Jan 2, 2006" }}</h2>
+		{{ .Content }}
+	</div>
+	{{ partial "footer.html" . }}
+
+</body>
+</html>
