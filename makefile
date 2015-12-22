@@ -19,8 +19,8 @@ server:
 RUM:
 	# an a one line WebServer for RUM Monitoring
 	while true; do { echo -e 'HTTP/1.1 200 OK\r\n\nconsole.log ("blueprint is 42")'; } | nc -l 12345 | grep logme; done
-killRUM:
-	ps -ef | grep "nc -l 12345" | awk '{print "kill -9 "$2}'
+stopRUM:
+	ps -ef | grep "nc -l 12345" | awk '{print "kill -9 "$2}' # this does not work, make swallows the $2...
 
 home: blueprint-home
 	rsync -vaz --delete public/ pi@krukas.dyn.amicdns.de:public_html/blueprint/
