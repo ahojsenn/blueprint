@@ -13,8 +13,8 @@ Gemeinsam streben wir danach
 * unternehmerisch zu handeln,
 * aufeinander zu achten,
 * Risiken zu übernehmen,
-* und Fehler als Schritte auf dem Weg des Lernens und der Verbesserung zu begreifen.
-
+* und Fehler als Schritte auf dem Weg des Lernens und der Verbesserung zu begreifen
+* um dadurch stets herrausragende Leistungen und Produkte zu liefern.
 
 Unsere Kunden betrachten wir als Partner
 

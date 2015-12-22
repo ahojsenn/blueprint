@@ -1,7 +1,7 @@
 +++
 date = "2015-12-05T15:37:20+01:00"
 draft = false
-title = "Produkte"
+title = "Produkt"
 menu = "main"
 weight = "-180"
 +++
@@ -9,6 +9,17 @@ weight = "-180"
 ## We work for change
 
 Wir helfen, Produktentwicklung zu skalieren. Dazu haben wir unsere [Mitarbeiter](../profiles) und unsere [Erfahrung](../erfahrung).
+
+Ziel jeder Softwareentwicklung ist Veränderbarkeit des Produktes. ...
+
+Todo:
+Ralf: Aufschlag: 23.12.
+Johannes: Nachschlag: 27.12.
+Ralf: Finale: 30.12.
+
+
+
+
 
 Produktentwicklung skalieren bedeutet für uns, unabhängig arbeitentde Teams im Unternehmen zu etablieren. Das wird derzeit auch als "Vertikalisierung" der IT bezeichnet. Mit unserem Architektur-, Organisations- und Prozess-Know-how bauen wir vertikale Teams, die unabhängig von einander agieren können.
 
