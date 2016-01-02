@@ -10,6 +10,6 @@ theme="blueprint"
 [[menu.main]]
     name = "Profile"
     url = "/profile"
-    weight = -170
+    weight = -150
 
 

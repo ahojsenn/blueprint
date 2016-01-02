@@ -3,7 +3,7 @@ date = "2015-11-30T21:24:39+01:00"
 title = "Werte"
 description = "Wir über uns"
 menu = "main"
-weight = "-140"
+weight = "-160"
 draft = false
 +++
 

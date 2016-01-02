@@ -6,11 +6,8 @@ menu = "main"
 weight = "-180"
 +++
 
-## We work for change - we work for success - we change the work
 
-Die einzige Kostante von Entwicklung ist Veränderung: Anforderungen, Technologien, Organisationen,Märkte - all dies ändert sich kontinuierlich. Wir haben die Wahl zwischen Ignorieren oder Anpassen.
-
-Blueprint steht dafür, Änderungen als Chance zu begreifen. Wir unterstützen ihr Unternehmen darin, fit für die Zukunft zu werden.
+#### Die einzige Kostante von Entwicklung ist Veränderung. Anforderungen, Technologien, Organisationen und Märkte ändern sich kontinuierlich. Wir haben die Wahl zwischen Ignorieren oder Anpassen. Blueprint steht dafür, Änderungen als Chance zu begreifen. Wir unterstützen ihr Unternehmen darin, fit für die Zukunft zu werden.
 
 Eine neue Anforderung entsteht aus einem neuen Markt- oder Kundenbedürfnis heraus. Berücksichtigen wir die Anforderung, werden das Produkt und die Organisation besser - die Markchancen steigen. Ignorieren wir die Anforderung, verlieren wir den Anschluss.
 
@@ -23,3 +20,6 @@ Organisationen werden durch den Erfolg agiler Methoden überfordert. Alte Strukt
 Für uns ist Veränderung mehr als die Umstellung eines Wasserfall-Vorgehens auf einen agilen Entwicklungsprozess. Ganzheitliche Veränderung bedeutet für uns, die Fähigkeit zur Veränderung auf allen Ebenen der Softwareentwicklung und der Organisation herzustellen: Sourcecode, Architektur, Organisation, Deployment und Betrieb. Alle Bereiche greifen ineinander und müssen ganzheitlich betrachtet und gemanagt werden. Es nützt wenig, wenn Source-Code schnell und regressionssicher geändert werden kann, das nächste Deployment aber erst in drei Monaten ansteht. Genauso wenig bringt es, ein grosses Team in viele kleine aufzuteilen, wenn die Architektur des Systems dies nicht unterstützt und die Organisation nur klassische Antworten auf neue Fragen hat.
 
 Wir unterstützen Sie, Ihre Softwareachitekur, Prozesse und Organisation so zu gestalten, dass Änderungen genutzt und zu Chancen werden und aus Chancen Erfolg am Markt wird.
+
+#### We work for change - we work for success - we change the work
+
