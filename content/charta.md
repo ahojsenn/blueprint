@@ -18,7 +18,7 @@ Gemeinsam streben wir danach
 
 Unsere Kunden betrachten wir als Partner
 
-* denen wir mit unserer Erfahrung helfen,
+* die wir mit unserer Erfahrung unterstützen,
 * ihre Risiken mittragen
 * und immer so handeln dass ihr Erfolg in der Zukunft unser Ziel ist.
 
