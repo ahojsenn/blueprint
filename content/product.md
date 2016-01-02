@@ -10,7 +10,7 @@ weight = "-180"
 
 Die einzige Kostante von Entwicklung ist Veränderung: Anforderungen, Technologien, Organisationen,Märkte - all dies ändert sich kontinuierlich. Wir haben die Wahl zwischen Ignorieren oder Anpassen.
 
-Wir haben uns entschieden: Wir begreifen Änderungen als Chance.
+Blueprint steht dafür, Änderungen als Chance zu begreifen.
 
 Eine neue Anforderung entsteht aus einem neuen Markt- oder Kundenbedürfnis heraus. Berücksichtigen wir die Anforderung, wird das Produkt besser - die Markchancen steigen. Ignorieren wir die Anforderung, verlieren wir den Anschluss.
 
