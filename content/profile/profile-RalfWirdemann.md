@@ -5,7 +5,7 @@ title = "Profile"
 
 name 			= "Ralf Wirdemann"
 profileimage 	= "img/profile-RalfWirdemann.jpg"
-mission 		= "Product, Process, Programming"
+mission 		= "Ganzheitliche Softwareentwicklung: Kundenbedürfnisse als Softwareanforderungen formulieren, das Team bei der Umsetzung unterstützen, produktionsreife und wartbare Ergebnisse kontinuierlich liefern, dies sind die Dinge, die mich interessieren."
 coordinates 	= "****<br>**** Hamburg<br>mobile: +49 151 ***<br>email: ralf(at)ralfwirdemann.de"
 
 

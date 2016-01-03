@@ -38,6 +38,16 @@ weight = "-170"
 	logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NDR_Dachmarke.svg/2000px-NDR_Dachmarke.svg.png"
 	description = "Ausschreibung und Anbieterauswahl für das Content Management System von NDR und tagesschau.de"
 	who = "Dr. Johannes Mainusch"
+[[references]]
+	company = "eSailors IT solutions GmbH"
+	logo = "http://esailors.de/files/inhalte/allgemein/logo.png"
+	description = "Relaunch von Tipp24.com (Lotto im Internet)"
+	who = "Ralf Wirdemann"
+[[references]]
+	company = "Libri GmbH"
+	logo = "http://home.libri.de/fileadmin/user_upload/header_logo.png"
+	description = "Konzeption, Architektur, Umsetzung eines Multichannel-Konzepts für den Buchhandel"
+	who = "Ralf Wirdemann"
 +++
 
 
