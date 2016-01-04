@@ -26,7 +26,7 @@ coordinates 	= "****<br>**** Hamburg<br>mobile: +49 151 ***<br>email: ralf(at)ra
 	description  = "Buch: Scrum mit User Stories"
 [[linklist]]
 	link = "http://www.amazon.de/Rapid-Web-Development-Ruby-Rails/dp/3446409327"
-	description  = "Buch: Rapid Web Development mit Ruby on Rails"
+	description  = "Buch: Ruby on Rails"
 
 [coord]
 	address = "****"
