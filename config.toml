@@ -5,7 +5,7 @@ theme="blueprint"
 
 [Params]
   description = "we work for change"
-
+  cite = "Jeff Bezos: Am gefährlichsten ist es, sich nicht zu verändern"
 
 [[menu.main]]
     name = "Profile"
