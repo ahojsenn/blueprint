@@ -3,7 +3,7 @@ date = "2015-12-05T12:43:21+01:00"
 draft = false
 title = "Charta"
 menu = "main"
-weight = "-200"
+weight = "-180"
 +++
 
 ### blueprint steht für gute Arbeit, Fairness und wirtschaftlichen Erfolg
