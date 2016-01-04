@@ -16,8 +16,8 @@ coordinates 	= "****<br>**** Hamburg<br>mobile: +49 151 ***<br>email: ralf(at)ra
 	topic = "Senior Developer"
 
 [[linklist]]
-	link = "http://www.ahojsenn.com"
-	description  = "blog"
+	link = "http://ralfwirdemann.de"
+	description  = "web"
 [[linklist]]
 	link = "www.xing.com/profile/Ralf_Wirdemann"
 	description  = "xing"
