@@ -11,7 +11,7 @@ weight = "-190"
 
 Eine neue Anforderung entsteht aus einem neuen Markt- oder Kundenbedürfnis heraus. Berücksichtigen wir die Anforderung, werden das Produkt und die Organisation besser - die Marktchancen steigen. Ignorieren wir die Anforderung, verlieren wir den Anschluss.
 
-Neue Technologien drängen in den Markt und bieten signifikante Vorteile gegenüber Altbewährtem: Hochskalierbare Datenbanken, minutenschnelle Deployments oder Virtualisierung, um nur einige Beispiele zu nennen. Öffnen wir uns neuen Technolgien, profitieren wir von deren Vorteilen - wir werden schneller, liefern bessere Produkte und können unmittelbarer auf Marktänderung reagieren.
+Neue Technologien drängen in den Markt und bieten signifikante Vorteile gegenüber Altbewährtem: Hochskalierbare Datenbanken, minutenschnelle Deployments oder Virtualisierung, um nur einige Beispiele zu nennen. Öffnen wir uns neuen Technologien, profitieren wir von deren Vorteilen - wir werden schneller, liefern bessere Produkte und können unmittelbarer auf Marktänderung reagieren.
 
 Die Produkte Ihres Unternehmens werden erfolgreich, neue Anforderungen und Ideen entstehen, das Team wächst. Einfach neue Entwickler ins Team holen funktioniert nicht: Das Team wird langsam und unbeweglich. Wachsende Teams erzwingen organisatorische Veränderungen. Aus einem grösser werdenden Team müssen mehrere kleine Teams werden. Höchstes Ziel ist deren Unabhängigkeit vom Rest der Organisation. Die Teams bleiben schlagkräftig und agil.
 
