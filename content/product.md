@@ -7,9 +7,9 @@ weight = "-190"
 +++
 
 
-#### Die einzige Kostante von Entwicklung ist Veränderung. Anforderungen, Technologien, Organisationen und Märkte ändern sich kontinuierlich. Wir haben die Wahl zwischen Ignorieren oder Anpassen. Blueprint steht dafür, Änderungen als Chance zu begreifen. Wir unterstützen ihr Unternehmen darin, fit für die Zukunft zu werden.
+#### Die einzige Konstante von Entwicklung ist Veränderung. Anforderungen, Technologien, Organisationen und Märkte ändern sich kontinuierlich. Wir haben die Wahl zwischen Ignorieren oder Anpassen. Blueprint steht dafür, Änderungen als Chance zu begreifen. Wir unterstützen ihr Unternehmen darin, fit für die Zukunft zu werden.
 
-Eine neue Anforderung entsteht aus einem neuen Markt- oder Kundenbedürfnis heraus. Berücksichtigen wir die Anforderung, werden das Produkt und die Organisation besser - die Markchancen steigen. Ignorieren wir die Anforderung, verlieren wir den Anschluss.
+Eine neue Anforderung entsteht aus einem neuen Markt- oder Kundenbedürfnis heraus. Berücksichtigen wir die Anforderung, werden das Produkt und die Organisation besser - die Marktchancen steigen. Ignorieren wir die Anforderung, verlieren wir den Anschluss.
 
 Neue Technologien drängen in den Markt und bieten signifikante Vorteile gegenüber Altbewährtem: Hochskalierbare Datenbanken, minutenschnelle Deployments oder Virtualisierung, um nur einige Beispiele zu nennen. Öffnen wir uns neuen Technolgien, profitieren wir von deren Vorteilen - wir werden schneller, liefern bessere Produkte und können unmittelbarer auf Marktänderung reagieren.
 
