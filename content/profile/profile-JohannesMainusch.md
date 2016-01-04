@@ -9,6 +9,11 @@ mission 		= "Fairness in dealing with customers and colleagues, <br>the forming 
 coordinates 	= "Vizelinstr. 39<br>22529 Hamburg<br>mobile: +49 151 17967995<br>email: johannes.mainusch@gmx.de"
 
 
+[[mainfocus]]
+	topic = "Management"
+[[mainfocus]]
+	topic = "IT-Architecture"
+
 
 [[linklist]]
 	link = "http://www.ahojsenn.com"

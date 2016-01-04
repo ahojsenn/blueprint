@@ -2,7 +2,7 @@
 <body class="{{ .Site.Params.themeColor }}">
 	{{ partial "navi.html" . }}
 	<div class="content container">
-	 <h1>Who we are:</h1>
+		<h1>Who we are:</h1>
 		<ul class="miniprofile">
 			{{ range .Data.Pages }}
 			<li>
@@ -14,6 +14,13 @@
 				</div>
 				<div class="profiledetails">
 					<div>"{{ .Params.mission | markdownify }}"</div>
+					<br>Schwerpunkte:
+					<ul>
+						{{ range .Params.mainfocus }}
+						<li>-{{ .topic }}</li>
+						{{end}}
+					</ul>
+					<br>Links:
 					{{ range .Params.linklist }}
 					<a href="{{ .link }}">{{ .description }}</a>
 					{{ end }}
