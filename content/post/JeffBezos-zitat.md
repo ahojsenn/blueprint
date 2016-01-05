@@ -5,5 +5,5 @@ title = "Amazon's Jeff Bezos sagt"
 
 +++
 
-"Am gefährlichsten ist es, sich nicht zu verändern", gefunden in der SZ am 4.1.2016
-
+"Am gefährlichsten ist es, sich nicht zu verändern", [gefunden in der SZ am 4.1.2016]
+(http://www.sueddeutsche.de/medien/zeitungsmarkt-eine-wie-keine-1.2803883)

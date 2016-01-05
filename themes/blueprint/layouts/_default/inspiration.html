@@ -7,20 +7,15 @@
   <div class="content">
     <div class="post">
       <h2>{{ .Title }}</h2>
-
       {{ .Content }}
 
-    {{ range where .Site.Pages.ByDate "Section" "post" }}
+    {{ range (where .Site.Pages.ByDate "Section" "post").ByDate.Reverse }}
     <div class="post">
-      <h3 class="post-title">
+      <b class="post-title">
         <a href="{{ .Permalink }}">
-          discovered at <span class="post-date">{{ .Date.Format "Mon, Jan 2, 2006" }}</span>: {{ .Title }}
-        </a>
-      </h3>
-
-
-
-      {{ .Content }}
+          discovered at <span class="post-date">{{ .Date.Format "Mon, Jan 2, 2006" }}</span>:</a> {{ .Title }}
+      </b>{{ .Content }}
+      <br>
       </div>
     {{ end }}
     </div>
