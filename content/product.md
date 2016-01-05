@@ -9,7 +9,7 @@ weight = "-190"
 
 #### Die einzige Konstante von Entwicklung ist Veränderung. Anforderungen, Technologien, Organisationen und Märkte ändern sich kontinuierlich. Wir haben die Wahl zwischen Ignorieren oder Anpassen. Blueprint steht dafür, Änderungen als Chance zu begreifen. Wir unterstützen ihr Unternehmen darin, fit für die Zukunft zu werden.
 
-**Neue Anforderungen sind Chancen am Markt**<br>
+#### Neue Anforderungen sind Chancen am Markt
 Eine neue Anforderung entsteht aus einem neuen Markt- oder Kundenbedürfnis heraus. Berücksichtigen wir die Anforderung, werden das Produkt und die Organisation besser - die Marktchancen steigen. Ignorieren wir die Anforderung, verlieren wir den Anschluss.
 
 **Neue Technologien sind der Schlüssel für Innovation**<br>

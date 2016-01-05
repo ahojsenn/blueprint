@@ -1,24 +1,21 @@
 {{ partial "head.html" . }}
 <body class="{{ .Site.Params.themeColor }}">
-
   {{ partial "navi.html" . }}
-
-
   <div class="content">
-    <div class="post">
-      <h2>{{ .Title }}</h2>
+    <h2>{{ .Title }}</h2>
       {{ .Content }}
-
-    {{ range (where .Site.Pages.ByDate "Section" "post").ByDate.Reverse }}
-    <div class="post">
-      <b class="post-title">
-        <a href="{{ .Permalink }}">
-          discovered at <span class="post-date">{{ .Date.Format "Mon, Jan 2, 2006" }}</span>:</a> {{ .Title }}
-      </b>{{ .Content }}
-      <br>
+      {{ range (where .Site.Pages.ByDate "Section" "post").ByDate.Reverse }}
+      <div class="posting">
+        <b class="post-title">
+          <a href="{{ .Permalink }}">
+            discovered at <span class="post-date">{{ .Date.Format "Mon, Jan 2, 2006" }}</span>:
+          </a> {{ .Title }}
+        </b>
+        <div>{{ .Content }}</div>
+        <br>
       </div>
-    {{ end }}
-    </div>
+      {{ end }}
+   </div>
   {{ partial "footer.html" . }}
 </body>
 </html>

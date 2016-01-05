@@ -7,5 +7,4 @@ title = "Inspiration"
 layout="inspiration"
 draft = false
 +++
-
-Sammelstelle für Vorträge, Artikel und Dinge, die uns inspirieren.
+Vorträge, Artikel und Dinge, die uns inspirieren.
