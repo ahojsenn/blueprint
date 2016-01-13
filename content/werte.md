@@ -12,7 +12,7 @@ Wir machen uns viele Gedanken dazu, was uns vom Wettbewerb unterscheidet. Eine d
 
 Hier nun die Werte, die uns untereinander und in der Arbeit mit unseren Kunden und Partnern wichtig sind.
 #### Wir kommen, um nicht zu bleiben
-Kunden unterstützen bedeutet, wir geben unser Bestes und handeln stets so, dass der Kunde bald wieder ohne uns auskommt.
+Kunden unterstützen bedeutet, wir geben unser Bestes und handeln stets so, dass der Kunde möglichst bald wieder ohne uns auskommt.
 #### Innovation
 Wir betreten gern Neuland. Wir verändern uns gern. Denn wir glauben, dass mutiges Voranschreiten der Schlüssel zum Erfolg der Zukunft ist.
 #### Exzellenz
