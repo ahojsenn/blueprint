@@ -3,10 +3,9 @@
  */
 
  body {
- 	background-image: url(../img/_kette.jpg);
  	background-repeat: no-repeat;
  	background-position: center 0px;
- 	background-color: rgba(116,170,231,1);
+ 	background-color: white;
  	margin-left: 20%;
  	margin-right: 20%;
  	font-family: Helvetica, Arial, sans-serif;
@@ -77,12 +76,9 @@
  }
 
  .content {
- 	background-color: rgba(116,170,231,0.7);
+ 	background-color: rgba(42,42,42,0.23);
  	padding: 3%;
  	margin-top: 10px;
- 	-webkit-border-radius: 20px;
- 	-moz-border-radius: 20px;
- 	border-radius: 20px;
  }
 
 .content p {
@@ -108,16 +104,9 @@
  .responsive-menu a:visited,
  .responsive-menu a:link  {
  	font-size: 18px;
- 	-webkit-border-radius: 10px;
- 	-moz-border-radius: 10px;
- 	border-radius: 10px;
- 	border: solid 1px rgba(120, 90, 60, 0.6);
- 	text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.4);
- 	-webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.4), 0 1px 1px rgba(0, 0, 0, 0.2);
- 	-moz-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.4), 0 1px 1px rgba(0, 0, 0, 0.2);
- 	box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.4), 0 1px 1px rgba(0, 0, 0, 0.2);
+ 	border: solid 1px rgba(0, 0, 0, 0.8);
  	background: rgba(0, 0, 0, 0.6);
- 	color: orange;
+ 	color: white;
  	padding: 4px 12px 2px 12px;
  	text-decoration: none;
  	line-height:32px;
