@@ -26,7 +26,7 @@ Uns fehlen noch einige Zutaten zum Erfolg: Mitarbeiterinnen, das endgültige Bra
 
 Der Preis: Ein Wochenende an der Nordsee für zwei, oder eine entsprechende Spende an eine Organisation die Sie/ihr vorschlagt und deren Werte wir teilen.
 
-[Schickt uns einen Vorschlag per Mail](mailto:johannes.mainusch@gmx.de,ralf@wirdemann.de?
+[Schickt uns einen Vorschlag per Mail](mailto:johannes.mainusch@gmx.de,ralf.wirdemann@googlemail.com?
 subject=blueprint-Namenswettbewerb&body=Lieber Ralf,%0Alieber Johannes,%0A%0Ahier mein Vorschlag: )
 
 Ralf Wirdemann,
