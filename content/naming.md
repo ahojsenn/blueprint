@@ -12,7 +12,7 @@ draft = false
 
 
 #### Wir gründen ein Unternehmen - bitte helft uns bei Namensvorschlägen
- [mail an uns](mailto:johannes.mainusch@gmx.de,ralf@wirdemann.de?
+ [mail an uns](mailto:johannes.mainusch@gmx.de,ralf.wirdemann@googlemail.com?
 subject=blueprint-Namenswettbewerb&body=Lieber Ralf,%0Alieber Johannes,%0A%0Ahier mein Vorschlag: )
 
 
