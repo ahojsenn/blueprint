@@ -6,7 +6,7 @@ weight = "-200"
 
 name 			= "Anke Nehrenberg"
 profileimage 	= "img/profile-anke-nehrenberg.jpg"
-mission 		= "Be exccellent to each other"
+mission 		= "Be excellent to each other"
 coordinates 	= ""
 
 
@@ -17,7 +17,7 @@ coordinates 	= ""
 
 
 [[linklist]]
-	link = "www.anke-nehrenberg.de/index.php"
+	link = "http://www.anke-nehrenberg.de/index.php"
 	description  = "homepage"
 [[linklist]]
 	link = "https://www.xing.com/profile/Anke_Nehrenberg"
