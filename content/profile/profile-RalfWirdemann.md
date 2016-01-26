@@ -5,7 +5,7 @@ title = "Profile"
 
 name 			= "Ralf Wirdemann"
 profileimage 	= "img/profile-RalfWirdemann.jpg"
-mission 		= "Ganzheitliche Softwareentwicklung: Kundenbedürfnisse als Softwareanforderungen formulieren, das Team bei der Umsetzung unterstützen, produktionsreife und wartbare Ergebnisse kontinuierlich liefern, dies sind die Dinge, die mich interessieren."
+mission 		= "Kundenbedürfnisse als Softwareanforderungen formulieren, das Team bei der Umsetzung unterstützen, produktionsreife und wartbare Ergebnisse kontinuierlich liefern, dies sind die Dinge, die mich interessieren."
 coordinates 	= "****<br>**** Hamburg<br>mobile: +49 151 ***<br>email: ralf(at)ralfwirdemann.de"
 
 [[mainfocus]]
@@ -19,14 +19,11 @@ coordinates 	= "****<br>**** Hamburg<br>mobile: +49 151 ***<br>email: ralf(at)ra
 	link = "http://ralfwirdemann.de"
 	description  = "web"
 [[linklist]]
-	link = "www.xing.com/profile/Ralf_Wirdemann"
+	link = "http://www.xing.com/profile/Ralf_Wirdemann"
 	description  = "xing"
 [[linklist]]
-	link = "http://www.amazon.de/Scrum-User-Stories-Ralf-Wirdemann/dp/3446416560"
+	link = "http://www.amazon.de/Scrum-User-Stories-Ralf-Wirdemann/dp/3446426604"
 	description  = "Buch: Scrum mit User Stories"
-[[linklist]]
-	link = "http://www.amazon.de/Rapid-Web-Development-Ruby-Rails/dp/3446409327"
-	description  = "Buch: Ruby on Rails"
 
 [coord]
 	address = "****"
