@@ -12,8 +12,8 @@ draft = false
 
 
 #### Wir gründen ein Unternehmen - bitte helft uns bei Namensvorschlägen
- [mail an uns](mailto:johannes.mainusch@gmx.de,ralf.wirdemann@googlemail.com?
-subject=blueprint-Namenswettbewerb&body=Lieber Ralf,%0Alieber Johannes,%0A%0Ahier mein Vorschlag: )
+ [mail an uns](mailto:mail@anke-nehrenberg.de,johannes.mainusch@gmx.de,ralf.wirdemann@googlemail.com?
+subject=blueprint-Namenswettbewerb&body=Liebe Anke,%0Alieber Ralf,%0Alieber Johannes,%0A%0Ahier mein Vorschlag: )
 
 
 Wir gründen ein Unternehmen, denn wir wünschen uns sinnvolle [Arbeit, die Spaß macht, Arbeit, die Dinge zum Besseren verändert und Arbeit als Experten zusammen mit Experten](../charta). Wir träumen von einem Unternehmen, das sich mit den Besten misst und für [Menschen mit hohem Anspruch attraktiv](../werte) ist. Wir träumen von einem Unternehmen, dem unsere Kunden ihre größten Herausforderungen anvertrauen. Wir träumen von einem Unternehmen, das die härtesten Nüsse knackt.
@@ -26,9 +26,10 @@ Uns fehlen noch einige Zutaten zum Erfolg: Mitarbeiterinnen, das endgültige Bra
 
 Der Preis: Ein Wochenende an der Nordsee für zwei, oder eine entsprechende Spende an eine Organisation die Sie/ihr vorschlagt und deren Werte wir teilen.
 
-[Schickt uns einen Vorschlag per Mail](mailto:johannes.mainusch@gmx.de,ralf.wirdemann@googlemail.com?
-subject=blueprint-Namenswettbewerb&body=Lieber Ralf,%0Alieber Johannes,%0A%0Ahier mein Vorschlag: )
+[Schickt uns einen Vorschlag per Mail](mailto:mail@anke-nehrenberg.de,johannes.mainusch@gmx.de,ralf.wirdemann@googlemail.com?
+subject=blueprint-Namenswettbewerb&body=Liebe Anke,%0Alieber Ralf,%0Alieber Johannes,%0A%0Ahier mein Vorschlag: )
 
+Anke Nehrenberg,
 Ralf Wirdemann,
 Johannes Mainusch
 
