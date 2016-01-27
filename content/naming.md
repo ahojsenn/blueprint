@@ -33,5 +33,6 @@ Anke Nehrenberg,
 Ralf Wirdemann,
 Johannes Mainusch
 
+share this with: http://bit.ly/1UpDICy
 
-
+![QR-code to show and share](../img/QR-Code-blueprintNaming.png)
