@@ -7,7 +7,7 @@ weight = "-190"
 +++
 
 
-### Wir unterstützen Unternehmen, fit für die Zukunft zu werden.
+### Wir unterstützen ihr Unternehmen, fit für die Zukunft zu werden.
 
 #### Veränderung ist konstant. Blueprint begreift Veränderung als Chance.
 Die einzige Konstante von Entwicklung ist Veränderung. Anforderungen, Technologien, Organisationen und Märkte ändern sich kontinuierlich. Daraus entstehen neue Anforderungen in allen diesen Bereichen. Berücksichtigen wir die Anforderungen, werden das Produkt und die Organisation besser. Die Marktchancen steigen. Das Unternehmen ist fit for survival. Das nennen wir Evolution. 
