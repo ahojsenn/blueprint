@@ -9,26 +9,29 @@ weight = "-190"
 
 ### Wir unterstützen Unternehmen, fit für die Zukunft zu werden.
 
-#### Konstante Veränderung
-Die einzige Konstante von Entwicklung ist Veränderung. Anforderungen, Technologien, Organisationen und Märkte ändern sich kontinuierlich. Wir haben die Wahl zwischen Ignorieren oder Anpassen. Blueprint steht dafür, Änderungen als Chance zu begreifen.
+#### Veränderung ist konstant. Blueprint begreift Veränderung als Chance.
+Die einzige Konstante von Entwicklung ist Veränderung. Anforderungen, Technologien, Organisationen und Märkte ändern sich kontinuierlich. Daraus entstehen neue Anforderungen in allen diesen Bereichen. Berücksichtigen wir die Anforderungen, werden das Produkt und die Organisation besser. Die Marktchancen steigen. Das Unternehmen ist fit for survival. Das nennen wir Evolution. 
 
-#### Neue Anforderungen sind Chancen am Markt
-Eine neue Anforderung entsteht aus einem neuen Markt- oder Kundenbedürfnis heraus. Berücksichtigen wir die Anforderung, werden das Produkt und die Organisation besser - die Marktchancen steigen. Ignorieren wir die Anforderung, verlieren wir den Anschluss.
+#### Neue Anforderungen sind Chancen am Markt. Blueprint ist Enabler.
+Wir verstehen den Zusammenhang zwischen Technologien, Organisationen und Märkten und entwickeln Strategien für diese Evolution. Wir wissen aus Erfahrung wie Organisation aussehen, in denen Menschen und Technologien so zusammenkommen dass aus neuen Anforderungen neue Produkte entstehen. Weil wir sie mitgestaltet haben (Link Referenzen).
 
-#### Neue Technologien sind der Schlüssel für Innovation
-Neue Technologien drängen in den Markt und bieten signifikante Vorteile gegenüber Altbewährtem: hoch-skalierbare Datenbanken, minutenschnelle Deployments oder Virtualisierung, um nur einige Beispiele zu nennen. Öffnen wir uns neuen Technologien, profitieren wir von deren Vorteilen - wir werden schneller, liefern bessere Produkte und können unmittelbarer auf Marktänderung reagieren. So werden wir innovativ.
+#### Neue Technologien ermöglichen Innovation. Blueprint hat Technologie-Kompetenz.
+Hoch-skalierbare Datenbanken, minutenschnelle Deployments, Virtualisierung sind Beispiele für Technologien, die es uns ermöglichen unmittelbarer auf Marktanforderungen zu reagieren. Unternehmen werden schneller, liefern passendere Produkte. Wir kennen das Spektrum der verfügbaren Technologien. Welche für ein Unternehmen sinnvoll sind, definieren wir über ihre Relevanz für diese Ziele. 
 
-#### Erfolgreiche Produkte brauchen eine neue Organisation und Architektur
-Die Produkte Ihres Unternehmens werden erfolgreich, neue Anforderungen und Ideen entstehen, das Team wächst. Die entstehenden Verflechtungen der IT-Landschaft macht neue Entwicklung immer langsamer. Einfach neue Entwickler in Teams zu holen funktioniert oft nicht. Denn ohne begleitende Maßnahmen werden Teams dadurch oft langsam und unbeweglich. Wachsende Teams erzwingen organisatorische und architektonische  Veränderungen. Aus größer werdenden Teams müssen mehrere kleine Teams werden. Höchstes Ziel ist deren Unabhängigkeit vom Rest der Organisation. Nur so bleiben die Teams schlagkräftig und agil.
+#### Nachhaltiger Erfolg braucht eine neue Organisation und Architektur. Blueprint kann operative Fitness.
+Wenn Unternehmen erfolgreich werden, entstehen neue Anforderungen und Ideen. Teams wachsen. Die IT-Landschaft wird komplex, das Entwicklungstempo wird langsamer. Wachsende Teams brauchen organisatorische und architektonische Veränderungen. Das können wir planen und umsetzen. Unser Ziel dabei: Agile Teams. Wir zeigen, wie Unabhängigkeit der Teams ihre Effektivität erhöht.
 
-#### Agile Organisationen sind das Ziel
-Organisationen werden durch den Erfolg agiler Methoden überfordert. Alte Strukturen verzahnen  unzureichend in die neuen agilen Methoden. Anfänglicher Erfolg bleibt stecken. Hier entsteht dringender Bedarf zur Änderung, im Management agil zu werden.
+#### Agile Organisationen sind das Ziel. Blueprint lebt Agilität.
+Agile Methoden produzieren schnelle Erfolge. Damit dieser Erfolg nachhaltig wird müssen bestehende Strukturen mit den neuen agilen Methoden verzahnt werden. Die Veränderung muss sich im Management fortsetzen. Wir schaffen agile Management-Strukturen und gehen den gesamten Change-Prozess mit.
 
-#### Veränderung erfolgt in allen Dimensionen des Unternehmens
-Für uns ist Veränderung mehr als die Umstellung eines Wasserfall-Vorgehens auf einen agilen Entwicklungsprozess. Ganzheitliche Veränderung bedeutet für uns, die Fähigkeit zur Veränderung auf allen Ebenen der Softwareentwicklung und der Organisation herzustellen: Sourcecode, Architektur, Organisation, Deployment und Betrieb. Alle Bereiche greifen ineinander und müssen ganzheitlich betrachtet und gemanagt werden. Es nützt wenig, wenn Source-Code schnell und regressionssicher geändert werden kann, das nächste Deployment aber erst in drei Monaten ansteht. Genauso wenig bringt es, ein großes Team in viele kleine aufzuteilen, wenn die Architektur des Systems dies nicht unterstützt und die Organisation nur klassische Antworten auf neue Fragen hat.
+#### Veränderung in allen Dimensionen des Unternehmens. Blueprint schafft Nahtstellen.
+Ganzheitliche Veränderung bedeutet für uns, die Fähigkeit zur Veränderung auf allen Ebenen der Software-Entwicklung und der Organisation herzustellen: Sourcecode, Architektur, Organisation, Deployment und Betrieb. Alle Bereiche greifen ineinander. Wir betrachten sie ganzheitlich und entwickeln eine anpassungsfähige Organisations-Architektur, die Antworten auf neue Fragen hat. Andere sagen Schnittstellen. Uns sind Nahtstellen lieber.
 
-#### Nutzen Sie unsere Erfahrung
-Wir unterstützen Sie, Ihre Software-Architektur, Prozesse und Organisation so zu gestalten, dass Änderungen genutzt und zu Chancen werden und aus Chancen Erfolg am Markt wird.
+#### Development, Management, Agenturen. Blueprint ist der Missing Link.
+Was im Unternehmen passiert hört nicht an den Unternehmensgrenzen auf. Die Zusammenarbeit zwischen Fachbereichen  intern und mit externen Agenturpartnern ist für viele Unternehmen essentiell. Wir sind der missing link dazwischen. Wir machen Anforderungen-Analysen entwickeln Konzepte und übernehmen gerne auch das Projektmanagement für die Umsetzung.
 
-#### We work for change - we work for success - we change the work
+#### Mehr als Buzzword 4.0. Blueprint hat Erfahrung.
+Gemeinsam mit allen Ebenen im Unternehmen gestalten wir die Software-Architektur, Prozesse und Organisation so, dass Veränderungen zu Chancen werden. Wir machen Chancen zu Erfolg am Markt. Wir sind der Blueprint for survival.
+
+#### We work for change - we work for success - we change the work.
 
