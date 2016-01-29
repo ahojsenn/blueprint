@@ -7,11 +7,13 @@ weight = "-200"
 name 			= "Anke Nehrenberg"
 profileimage 	= "img/profile-anke-nehrenberg.jpg"
 mission 		= "Be excellent to each other"
-coordinates 	= ""
+coordinates 	= "Ich berate Unternehmen. Aber vor allem Menschen. Verstanden als Management- Und Strategieberatung, die Geschäftsmodelle und Organisationen an die Anforderungen der digitalen und vernetzten Welt anpasst. Ich erkläre Trends und Entwicklungen, bewerte sie und mache sie für Unternehmen nutzbar und begleite die Umsetzung als Senior Digital Projectmanager."
 
 
 [[mainfocus]]
 	topic = "Interims-Management"
+[[mainfocus]]
+	topic = "Missing Link: Nahtstelle zwischen IT und Organisation"
 [[mainfocus]]
 	topic = "Projektmacherin & Netzdenkerin, Nahtstelle zwischen IT und Organisation"
 
