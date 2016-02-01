@@ -6,8 +6,8 @@ weight = "-200"
 
 name 			= "Anke Nehrenberg"
 profileimage 	= "img/profile-anke-nehrenberg.jpg"
-mission 		= "Be excellent to each other"
-coordinates 	= "Ich berate Unternehmen. Aber vor allem Menschen. Verstanden als Management- Und Strategieberatung, die Geschäftsmodelle und Organisationen an die Anforderungen der digitalen und vernetzten Welt anpasst. Ich erkläre Trends und Entwicklungen, bewerte sie und mache sie für Unternehmen nutzbar und begleite die Umsetzung als Senior Digital Projectmanager."
+mission 		= "Ich berate Unternehmen. Aber vor allem Menschen. Verstanden als Management- Und Strategieberatung, die Geschäftsmodelle und Organisationen an die Anforderungen der digitalen und vernetzten Welt anpasst. Ich erkläre Trends und Entwicklungen, bewerte sie und mache sie für Unternehmen nutzbar und begleite die Umsetzung als Senior Digital Projectmanager."
+coordinates 	= ""
 
 
 [[mainfocus]]
