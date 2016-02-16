@@ -517,20 +517,6 @@
 			]
 		]
 	},
-	"buffers":
-	[
-		{
-			"contents": "public/\n**/.DS_Store\n\n",
-			"file": ".gitignore",
-			"file_size": 21,
-			"file_write_time": 130941727970000000,
-			"settings":
-			{
-				"buffer_size": 22,
-				"line_ending": "Unix"
-			}
-		}
-	],
 	"build_system": "",
 	"build_system_choices":
 	[
@@ -593,12 +579,10 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
-	"expanded_folders":
-	[
-		"/Users/docjoe/Documents/Protosync/mystuff/_Kunden/__blueprint"
-	],
 	"file_history":
 	[
+		"/Users/docjoe/Documents/Protosync/mystuff/_Kunden/__blueprint/.gitignore",
+		"/Users/docjoe/Documents/Protosync/mystuff/_Kunden/__blueprint/content/post/OOP2016.md",
 		"/Users/docjoe/Documents/Protosync/mystuff/_Kunden/_GermanTestingDays/Abstract_Chaos&QA.txt",
 		"/Users/docjoe/Documents/Protosync/mystuff/_Kunden/_GermanTestingDays/test.txt",
 		"/Users/docjoe/Documents/Protosync/mystuff/_Kunden/_GermanTestingDays/del.me",
@@ -692,7 +676,6 @@
 		"/Users/docjoe/Documents/Protosync/mystuff/_Kunden/__blueprint/test.me/index.html",
 		"/Users/docjoe/Documents/Protosync/mystuff/_Kunden/__blueprint/content/profile-JohannesMainusch.md",
 		"/Users/docjoe/Documents/Protosync/mystuff/Dokumente/_Verträge/Congstar/20151202-Congstar01.txt",
-		"/Users/docjoe/Documents/Protosync/mystuff/_Kunden/__blueprint/.gitignore",
 		"/Users/docjoe/Documents/Protosync/mystuff/Konferenzen&Präsentationen/_impress-presentations/_Performance/Performance.txt",
 		"/Users/docjoe/Documents/Protosync/mystuff/_Kunden/_VW/DUNS: Nummer",
 		"/Users/docjoe/Documents/Protosync/mystuff/_Joli/20151118-BriefPostbank.txt",
@@ -725,8 +708,7 @@
 		"/Users/docjoe/Documents/Protosync/mystuff/Dokumente/_blueprint/_blueprint-TrueNorth",
 		"/Users/docjoe/Documents/Protosync/mystuff/Konferenzen&Präsentationen/_impress-presentations/_ManageChaos/20151007-WegeAusDemChaos.html",
 		"/Users/docjoe/Documents/Protosync/mystuff/Konferenzen&Präsentationen/_impress-presentations/_ManageChaos/WegeAusDemChaos.html",
-		"/Users/docjoe/Documents/Protosync/mystuff/Konferenzen&Präsentationen/_impress-presentations/Y-manage-20150508.html",
-		"/Users/docjoe/Documents/Protosync/mystuff/Konferenzen&Präsentationen/_impress-presentations/_ManageChaos/OptimalTeamSize.xlsx"
+		"/Users/docjoe/Documents/Protosync/mystuff/Konferenzen&Präsentationen/_impress-presentations/Y-manage-20150508.html"
 	],
 	"find":
 	{
@@ -932,43 +914,6 @@
 		"whole_word": false,
 		"wrap": true
 	},
-	"groups":
-	[
-		{
-			"selected": 0,
-			"sheets":
-			[
-				{
-					"buffer": 0,
-					"file": ".gitignore",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 22,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								21,
-								21
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
-			]
-		}
-	],
 	"incremental_find":
 	{
 		"height": 26.0
@@ -1013,7 +958,6 @@
 		"height": 134.0
 	},
 	"pinned_build_system": "Packages/User/opera.sublime-build",
-	"project": ".blueprint.sublime-project",
 	"replace":
 	{
 		"height": 48.0
@@ -1054,7 +998,6 @@
 		],
 		"width": 392.0
 	},
-	"selected_group": 0,
 	"settings":
 	{
 	},
