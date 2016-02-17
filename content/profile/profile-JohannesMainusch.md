@@ -4,7 +4,7 @@ draft = false
 title = "Profile"
 
 name 			= "Dr. Johannes Mainusch"
-profileimage 	= "img/JohannesMainusch.jpg"
+profileimage 	= "img/JohannesMainusch-hk.jpg"
 mission 		= "Fairness in dealing with customers and colleagues, <br>the forming of great and diverse agile teams, <br>success in digitalization of commerce, <br>innovation and technology, <br>these are  things I love."
 coordinates 	= "Vizelinstr. 39<br>22529 Hamburg<br>mobile: +49 151 17967995<br>email: johannes.mainusch@gmx.de"
 
